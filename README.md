@@ -44,10 +44,9 @@
 
   <h2>📊 GitHub Analytics</h2>
 
-  <!-- Card com Estatísticas e Streaks -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=false" alt="Streak Stats" />
-  </p>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=mluisacarvalho&theme=dark&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&currStreakLabel=FF69B4&hide_border=false" alt="GitHub Streak" />
+</p>
 
 <h2>📈 Contribution Graph</h2>
 
