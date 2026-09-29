@@ -51,10 +51,9 @@
 
 <h2>📈 Contribution Graph</h2>
 
-  <!-- Gráfico de Contribuições (Substituído por API estável e funcional) -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mluisacarvalho&show_icons=true&theme=dark&hide_border=false" alt="Contribution Graph" />
-  </p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/mluisacarvalho" alt="Gráfico de Contribuição de mluisacarvalho" />
+</p>
 
   <h2>💬 Random Dev Quote</h2>
 
