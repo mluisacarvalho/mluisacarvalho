@@ -49,11 +49,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=false" alt="Streak Stats" />
   </p>
 
-  <h2>📈 Contribution Graph</h2>
+<h2>📈 Contribution Graph</h2>
 
-<!-- Gráfico de Contribuição com seu usuário -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mluisacarvalho&theme=react-dark" alt="Contribution Graph" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mluisacarvalho/mluisacarvalho/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
   <h2>💬 Random Dev Quote</h2>
