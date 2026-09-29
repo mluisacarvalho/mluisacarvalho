@@ -51,7 +51,7 @@
 
   <h2>📈 Contribution Graph</h2>
 
-<!-- Gráfico de Contribuição Atualizado -->
+<!-- Gráfico de Contribuição com seu usuário -->
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mluisacarvalho&theme=react-dark" alt="Contribution Graph" />
 </p>
