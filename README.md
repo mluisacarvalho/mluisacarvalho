@@ -46,7 +46,7 @@
 
   <!-- Card com Estatísticas e Streaks -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=pink&hide_border=false" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=false" alt="Streak Stats" />
   </p>
 
 <h2>📈 Contribution Graph</h2>
