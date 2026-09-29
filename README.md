@@ -51,10 +51,10 @@
 
   <h2>📈 Contribution Graph</h2>
 
-  <!-- Gráfico de Contribuição em Linha -->
-  <p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=SEU_USUARIO&theme=react-dark" alt="Contribution Graph" />
-  </p>
+<!-- Gráfico de Contribuição Atualizado -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mluisacarvalho&theme=react-dark" alt="Contribution Graph" />
+</p>
 
   <h2>💬 Random Dev Quote</h2>
 
