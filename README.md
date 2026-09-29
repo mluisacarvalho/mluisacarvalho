@@ -52,7 +52,7 @@
 <h2>📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mluisacarvalho/mluisacarvalho/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards/profile-details?username=mluisacarvalho&theme=dark" alt="Contribution Graph" />
 </p>
 
   <h2>💬 Random Dev Quote</h2>
